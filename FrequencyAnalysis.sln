@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyAnalysis", "FrequencyAnalysis.csproj", "{28FC1AFE-A170-40C5-92E9-72E5344B603D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FC1AFE-A170-40C5-92E9-72E5344B603D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FC1AFE-A170-40C5-92E9-72E5344B603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FC1AFE-A170-40C5-92E9-72E5344B603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FC1AFE-A170-40C5-92E9-72E5344B603D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0744309A-48C4-4CF4-A1DD-E48D8E5CB298}
+	EndGlobalSection
+EndGlobal
